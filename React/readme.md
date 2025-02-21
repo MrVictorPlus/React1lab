@@ -150,7 +150,7 @@ function ArticleList() {
 
 ## **Список использованных источников:**
 - Официальная документация React: [reactjs.org](https://reactjs.org/)
-- Учебники и статьи по React
+- Статьи по React
 
 ---
 
